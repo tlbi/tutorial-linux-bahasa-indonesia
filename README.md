@@ -1,2 +1,2 @@
 # tutorial-linux-bahasa-indonesia
-menyediakan semua hal tentang linux
+sharing ilmu dan pengetahuan tentang linux
