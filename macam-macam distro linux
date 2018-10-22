@@ -1,0 +1,41 @@
+#1. Ubuntu
+
+Ubuntu adalah sistem yang lengkap dengan berbasis linux, ini tersedia secara bebas dan mempunyai dukungan yang baik dari komunitas maupun tenaga ahli profesional. Ubuntu itu sendiri juga di kembangkan oleh komunitas sukarelawan ubuntu. Definisi ubuntu adalah sebuah kata berasal dari Afrika yang berarti “kemanusiaan untuk semuanya atau saya dibentuk oleh kita semua” distribusi ubuntu juga membawa semangat ubuntu ke dunia perangkat lunak. Sedangkan pengertian ubuntu yang berasal dari bahasa kuno afrika memiliki arti “rasa perikemanusiaan terhadap sesama manusia”.
+
+Ubuntu juga bisa di artikan “aku adalah aku karena keberadaan kita semua”. Ubuntu adalah salah satu distribusi linux yang memiliki basis pada Debian dan uyang memiliki interface dekstop. Siapa yang tau sponsor proyek ubuntu? sponsor proyek ubuntu adalah Canonical Ltd (perusahaan yang dimiliki oleh Mark Shuttleworth). Nama ubuntu di ambil dari salah satu konsep ideologi yang ada di Afrika Selatan. Tahukah kalian apa tujuan dari distribusi linux ubuntu? nah, tujuannya adalah membawa semangat yang telah ada pada ubuntu ke dalam dunia perangket lunak.
+
+Adapun komunitas ubuntu yang di bentuk baerdasarkan gagasan yang sudah terdapat dalam filisofi ubuntu :
+
+    Para pengguna harus mempunyai kebebasan mengubah perangkat lunak sesuai dengan yang mereka inginkan dan yang mereka butuhkan pada saat ini.
+    Perangkat lunak harus tersedia secara bebas biaya atau secara gratis agar lebih memudahkan para penggunanya.
+    Aplikasi perangkat lunak ini harus bisa di gunakan dalam bagasa lokal maupun bahasa asing dan bisa di gunakan oleh orang-orang yang memiliki keterbatasan fisik.
+
+Karena kebebasan inilah yang membuat ubuntu menjadi berbeda dengan perangkat lunak berpemilik (proprietary), bukan hanya peralatan tersebut yang kalian butuhkan tersedia secara bebas biaya atau gratis, namun kalian juga mempunyai hak untuk mengedit perangkat lunak kalian sampai perangkat lunak tersebut bekerja sesuai dengan apa yang kalian inginkan dan kalian kehendaki.
+
+#2. Debian
+
+Debian adalah salah satu sistem operasi yang berbasis karnel linux. Debian juga merupakan salah satu yang termasuk sistem operasi linux yang bebas untuk kalian pergunakan dengan menggunakan lisensi GNU, dan GNU atau linux itu sendiri adalah salah satu distro non komersial yang dihasilkan oleh para sukarelawan dari seluruh dunia yang saling bekerjasama dengan melalui jalan internet. Debian diperkenalkan oleh Ian Murdock untuk pertama kalinya pada tahun 1998. Nama debian itu sendiri adalah nama yang di ambil dari nama pacarnya yang sekarang sudah menjadi istrinya yaitu Debra dan juga mendapat tambahan dari namanya sendiri yaitu Ian dan di gabung menjadi nama debian.
+
+Nah dari distro ini dapat engingatkan adanya semangat open – source yang harus tetap ada pada diri debian sampai kapanpun. Karena kedinamisan distro ini yang membuat setiap kali rilis paket- paketnya selalu di update setiap waktu dan dapat di akses melalui utilitas apt – get. Apa itu apt- get? Apt- get merupakan salah satu utilitas baris perintah yang bisa kalian gunakan secara dinamis dimanfaatkan untuk meng- upgrade sistem debian Gnu atau linux dengan cara melalui apt – repository jaringan archive debian yang sangat luas jangkauannya. Debian itu sendiri merupakan kernel independen, yaitu sistem operasi debian yang di kembangkan dengan murni tanpa mendasarkan pada sistem operasi yang sudah ada.
+
+Keuntungan dari debian yaitu upgradability, ketergantungan antara paket  yang di definisikan dengan sangat baik dan dari segi pengembangannya yaitu secara terbuka. Milis dan forum debian merupakan salah satu yang selalu penuh dengan berbagai pesan baik pesan mengenai bug, tentang masalah, bahkan shering. Mungkin dengan adanya sistem komunikasi seperti ini bug dan masalah keamanan pada setiap paket akan lebih mudah di laporka oleh para penggun dan pengembangan debian
+
+#3. OpenSUSE
+
+Suse adalah akronim dalam bahasa Jerman yang di gunakan untuk “software-und system-entwicklung” atau di sebut juga dengan pengembangan perangkat lunak dan sistem. Namun ada juga pendapat lain yang menyatakan bahwa nama suse di pakai untuk menghormati Insinyur Konrad Zuse. Sebelumnya opensuse mempunyai nama SUSE Linux dan Suse Linux Professional. Suse Linux merupakan salah satu distro linux utama yang di buat di Jerman. Suse Linux aslinya adalah singkatan yang berasal dari kalimat dalam bahasa jerman, yaitu dari kalimat Slackware.
+
+Opensuse ini merupakan salah satu proyek SUSE open source yang mendapatkan sponsor oleh Novell dan AMD. Pemilik perusahaan ini sekarang adalah Novel, Inc. S-u-s-e merupakan salah satu singkatan dari kalimat dalam bahasa Jerman yaitu “Software- und system- entwicklung” atau bisa di sebut juga “perangkat lunak dan pengembangan sistem”. tetapi ada sebuah informasi lainnya yang tidak resmi yang menyatakan bahwa suse di hubungkan dengan ilmuwan komputer Jerman Konrad Zuse.
+
+#4. CentOS
+
+Centos merupakan cistribusi linux yang berbasis Red Hat Enterprise Linux atau di sebut juga dengan kata RHEL. Ini juga merupakan akronim yang di hasilkan dari Community Enterprise Operating System. CentoS merupakan sebuah sistem operasi yang bebas dengan di dasarkan pada Red Hat Enterprise Linux atau RHEL. Ini juga merupakan distro linux yang paling banyak di pakai untuk server.
+
+
+#5. Fedora
+
+Merupakan sebuah proyek linux komunitas yang mendapatkan sponsor penuh dari Red Hat. Tahukah kalian darimana asal nama fedora? nama fedora di ambil dari salah satu jenis topi yang dipakai oleh salah satu pria yang terdapat karakter logo Red Hat- nya. Pada saat rilisan ke 1 sampai rilisan 6 distro ini bernama “Fedora Core” yang kemudian di ganti menjadi “Fedora” pada saat rilisan yang ke 7.
+
+Fedora yang sebelumnya bernama fedora core juga terkadang disebut juga dengan nama “fedora linux”. Fedora adalah salah satu distro linux yang berbasis Rpm dan YUM yang juga di kembangkan oleh Fedora Project, yang mendapat dukungan penuh dari komunitas pemrograman serta mendapatkan seponsor dari Red Hat.
+
+
+ akan lebih cepat lagi.
